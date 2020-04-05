@@ -1,0 +1,29 @@
+
+html, body { scrollbar-base-color: #000000;
+			 scrollbar-face-color: #777777;
+			 scrollbar-track-color: #110047;
+			 scrollbar-highlight-color: #FFFFFF;
+			 scrollbar-3dlight-color: #CDCDCD;
+			 scrollbar-shadow-color: #191919;
+			 scrollbar-darkshadow-color: #000000;
+			 scrollbar-arrow-color: #ABAADC; }
+
+.main { font-family: Georgia, "Times New Roman", Times, serif;
+		font-size: 1.0em; font-style: italic; font-weight: 400;
+		color: black; text-align: center; }
+
+.mono { font-family: "Courier New", Courier, mono; text-align: center; }
+.mono_left { font-family: "Courier New", Courier, mono; text-align: left; }
+.mono_right { font-family: "Courier New", Courier, mono; text-align: right; }
+
+.strong { font-weight: 700; text-align: center; }
+.strong_left { font-weight: 700; text-align: left; }
+.strong_right { font-weight: 700; text-align: right; }
+
+.left { text-align: left; }
+.right { text-align: right; }
+
+.bigger { font-size: 1.32em; }		.bigger_heavy { font-size: 1.32em; font-weight: 700; }
+.medium { font-size: 1.21em; }		.medium_heavy { font-size: 1.21em; font-weight: 700; }
+.smaller { font-size: 0.9em; }		.smaller_heavy { font-size: 0.9em; font-weight: 700; }
+.smallest { font-size: 0.8em; }		.smallest_heavy { font-size: 0.8em; font-weight: 700; }
